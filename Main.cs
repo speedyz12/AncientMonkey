@@ -275,7 +275,7 @@ public class AncientMonkey : BloonsTD6Mod
         {
             if (tower.name.Contains("AncientMonkey"))
             {
-                tower.GetShopTowerDetails().towerCount = 1;
+                tower.GetShopTowerDetails().towerCount = 10;
             }
         }
     }
